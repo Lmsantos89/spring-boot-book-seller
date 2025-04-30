@@ -1,0 +1,8 @@
+{
+  "name": "lms-book-seller",
+  "buildpacks": [
+    {
+      "url": "heroku/gradle"
+    }
+  ]
+}
